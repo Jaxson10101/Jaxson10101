@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jaxson10101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Jaxson Leroux
 
-<!---
-Jaxson10101/Jaxson10101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a third year Computer Science student in the Science Co-op program at the University of Calgary and a Software Development Intern with EVA (Turing Analytics)
+
+
+📫 Connect With Me
+
+Email: jaxson.leroux@ucalgary.ca
+
+LinkedIn: https://www.linkedin.com/in/jaxson-leroux-917134299/
